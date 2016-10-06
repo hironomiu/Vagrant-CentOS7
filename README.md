@@ -9,6 +9,10 @@ or
 $ git clone https://github.com/hironomiu/Vagrant-CentOS7.git
 ```
 
+## Setup
+```
+$ vagrant up
+```
 ## Login
 vagrant user
 ```
